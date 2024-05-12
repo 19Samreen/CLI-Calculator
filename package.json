@@ -1,0 +1,19 @@
+{
+  "name": "calculator-by-techstorming",
+  "version": "1.0.0",
+  "main": "Project-00.js",
+  "type": "module",
+  "bin": "Project-00.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
